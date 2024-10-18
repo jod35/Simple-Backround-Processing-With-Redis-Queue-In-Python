@@ -1,5 +1,5 @@
 # Simple Backround Processing With Redis Queue (RQ) With Python
-This is source code and notes for a livestream I did on Redis Queue.
+This is source code and notes for a [livestream](https://youtube.com/live/sfLBdTO-wMg) I did on Redis Queue.
 
 The notes are [here](./notes.md)
 
